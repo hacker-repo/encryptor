@@ -5,7 +5,7 @@ This is powerfull encrypt file tool
 
 ## Use
 
-``chmod 777 encrypt.sh && ./encrypt.sh``
+``chmod 777 encrypt && ./encrypt``
 ## How to execute .sh file?
 ``./your_file``
 ### Fast Contact
