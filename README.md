@@ -8,6 +8,8 @@ This is powerfull encrypt file tool
 ``chmod 777 encrypt && ./encrypt``
 ## How to execute .sh file?
 ``./your_file``
+## Attention
+NOTE: Do not forget to make a backup of the file you will encrypt!
 ### Fast Contact
 > <noscript><a href="https://instagram.com/mssqli"><img alt="Instagram: @mssqli" title="IG: @mssqli" width="200px" src="https://raw.githubusercontent.com/the-rooj/msf/main/lib/follow-us-on-instagram.svg"></a></noscript>
 
